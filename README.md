@@ -1,5 +1,5 @@
 
-# CCC October 2023 Solution Repository ![GitHub repo size](https://img.shields.io/github/repo-size/username/repo) ![GitHub contributors](https://img.shields.io/github/contributors/username/repo) ![GitHub stars](https://img.shields.io/github/stars/username/repo?style=social) ![GitHub forks](https://img.shields.io/github/forks/username/repo?style=social)
+# CCC October 2023 Solution Repository ![GitHub repo size](https://img.shields.io/github/repo-size/filipjaskovic/CCC-Oct2023) ![GitHub contributors](https://img.shields.io/github/contributors/filipjaskovic/CCC-Oct2023) ![GitHub stars](https://img.shields.io/github/stars/filipjaskovic/CCC-Oct2023?style=social) ![GitHub forks](https://img.shields.io/github/forks/filipjaskovic/CCC-Oct2023?style=social)
 
 Welcome to the CCC October 2023 Solution Repository! This repository contains my code solutions for the Coding Contest October 2023. Feel free to explore, learn and contribute.
 
