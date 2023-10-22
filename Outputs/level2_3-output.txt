@@ -1,0 +1,6 @@
+233 H,H,H,K
+262 H,H,K,K
+66 K,K,K,K
+72 H,H,H,H
+253 H,K,K,K
+114 H,K,H,K
