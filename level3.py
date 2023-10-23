@@ -31,7 +31,7 @@ def identify_and_correct_mistakes(size, puzzle):
     return puzzle
 
 def main():
-    for i in range(1, 6):  # Adjust based on the number of input files
+    for i in range(1, 6):
         file_path = f'level3_{i}.in'
         puzzle_size, puzzle_matrix = read_puzzle(file_path)
         corrected_puzzle = identify_and_correct_mistakes(puzzle_size, puzzle_matrix)
