@@ -47,7 +47,7 @@ The CCC (short for Cloudflight Coding Contest) is one of the biggest competition
 
 |    | Feature            | Description |
 |----|--------------------|--------------------------------------------------------------|
-| ⚙️ | **Architecture** | The architecture is straightforward with clear separation of inputs, outputs and level descriptions. However, the repository lacks actual code to implement functionalities. |
+| ⚙️ | **Architecture** | The architecture is straightforward with clear separation of inputs, outputs and level descriptions. |
 | 📄 | **Documentation** | There's a README file to provide a overview or to describe how to run and interact with the repository. |
 | 🔗 | **Dependencies** | The repository does not have any external library dependencies. |
 
