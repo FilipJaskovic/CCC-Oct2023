@@ -1,9 +1,10 @@
 <div align="center">
 <h1 align="center">
-<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/ec559a9f6bfd399b82bb44393651661b08aaf7ba/icons/folder-markdown-open.svg" width="100" />
+<!-- <img src="CCC-Logo.png" height="150" /> -->
+<img src="/Users/filip/Desktop/CCC-Oct2023/header-icon-big-dd51142e51225a243f87602c26ce87ab -  - 2023-10-24 09-29-01.svg" height="150" />
 <br>CCC-OCT2023</h1>
 <h3>◦ CCC-Oct2023: CCC October 2023 Solution Repository</h3>
-<h3>◦ Developed with the software and tools below.</h3>
+
 
 <p align="center">
 <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=flat&logo=HTML5&logoColor=white" alt="HTML5" />
@@ -108,16 +109,18 @@ The CCC (short for Cloudflight Coding Contest) is one of the biggest competition
 ---
 
 
-## ⚙️ Modules
+## ⚙️ Solutions Explained
 
-<details closed><summary>Root</summary>
+<details closed><summary>Level 1 Solution Explanation</summary>
 
-| File                                                                                      | Summary                                                                                                                                                                                                                                                                                                                                                                                                             |
-| ---                                                                                       | ---                                                                                                                                                                                                                                                                                                                                                                                                                 |
-| [level1.py](https://github.com/FilipJaskovic/CCC-Oct2023/blob/main/level1.py)             | The provided Python script reads from files named'level1_#.in' where # ranges from 1 to 5 in the'Inputs' directory. The script counts occurrences of specific lines (puzzle pieces) in each file. The counts are then written into corresponding files named'level1_#-output.txt' in the'Outputs' directory.                                                                                                        |
-| [visualizer.html](https://github.com/FilipJaskovic/CCC-Oct2023/blob/main/visualizer.html) | The given HTML and JavaScript code creates a web-based "Puzzle Visualizer". A user inputs a puzzle string into a text field, formatted such that each 2x2 block represents pieces and joins. As the puzzle string is modified, an SVG graphical representation of it dynamically updates, visually displaying the user's puzzle configuration in real time with different types of links between pieces.            |
-| [level2.py](https://github.com/FilipJaskovic/CCC-Oct2023/blob/main/level2.py)             | The "level2.py" script counts puzzle pieces. It reads from.in files from disk, normalizes each piece by rotating it, sorts rotations, and counts repeated piece patterns using a dictionary. It then writes the total piece counts, along with corresponding puzzle piece, into a new.txt output file. The process then repeats for five.in files, named'level2_1' through'level2_5'.                               |
-| [level3.py](https://github.com/FilipJaskovic/CCC-Oct2023/blob/main/level3.py)             | This'level3.py' script processes puzzles, correcting mistakes within each puzzle matrix. Each puzzle matrix is read from a specified file ('*.in') and processed to identify and correct matching pairs of'K' and'H' pieces adjacent in specific directions. The script checks all the puzzles (from'level3_1.in' to'level3_5.in'), and writes the corrected puzzles into respective output files ('*-output.txt'). |
+</details>
+<details closed><summary>Level 2 Solution Explanation</summary>
+
+</details>
+<details closed><summary>Level 3 Solution Explanation</summary>
+
+</details>
+<details closed><summary>Level 4 Solution Explanation</summary>
 
 </details>
 

@@ -8,6 +8,17 @@ def read_puzzle(file_path):
     return size, puzzle
 
 def identify_and_correct_mistakes(size, puzzle):
+    """
+    Identifies and corrects mistakes in a given puzzle.
+
+    Args:
+    - size (int): The size of the puzzle.
+    - puzzle (list): A 2D list representing the puzzle.
+
+    Returns:
+    - A 2D list representing the corrected puzzle.
+    """
+
     directions = [(0, 1), (1, 0)]
 
     for i in range(size):
