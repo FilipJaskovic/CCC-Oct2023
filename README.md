@@ -225,7 +225,7 @@ Once your PR is reviewed and approved, it will be merged into the main branch.
 ## 📄 License
 
 
-This project is protected under the MIT License. For more details, refer to the [LICENSE](LICENSE) file.
+This project is protected under the [MIT](LICENSE) License. For more details, refer to the [LICENSE](LICENSE) file.
 
 ---
 
