@@ -154,16 +154,16 @@ git clone https://github.com/FilipJaskovic/CCC-Oct2023
 ```sh
 cd CCC-Oct2023
 ```
-
+<!--
 3. Install the dependencies:
 ```sh
 ► INSERT-TEXT
 ```
-
+-->
 ### 🤖 Running CCC-Oct2023
 
 ```sh
-► INSERT-TEXT
+python level1.py #change the level number based on what script you want to run.
 ```
 
 <!-- ### 🧪 Tests
