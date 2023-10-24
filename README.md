@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">
 <!-- <img src="CCC-Logo.png" height="150" /> -->
-<img src="/Users/filip/Desktop/CCC-Oct2023/header-icon-big-dd51142e51225a243f87602c26ce87ab -  - 2023-10-24 09-29-01.svg" height="150" />
+<img src="header-icon-big-dd51142e51225a243f87602c26ce87ab -  - 2023-10-24 09-29-01.svg" height="150" />
 <br>CCC-OCT2023</h1>
 <h3>◦ CCC-Oct2023: CCC October 2023 Solution Repository</h3>
 
