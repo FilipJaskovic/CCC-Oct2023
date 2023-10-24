@@ -23,7 +23,7 @@
 - [📍 Overview](#-overview)
 - [📦 Features](#-features)
 - [📂 repository Structure](#-repository-structure)
-- [⚙️ Solutions Explained](#-solutions-explained)
+- [⚙️ Solutions Explained](#%EF%B8%8F-solutions-explained)
 - [🚀 Getting Started](#-getting-started)
     - [🔧 Installation](#-installation)
     - [🤖 Running CCC-Oct2023](#-running-CCC-Oct2023)
