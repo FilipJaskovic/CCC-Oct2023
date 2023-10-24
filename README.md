@@ -23,12 +23,10 @@
 - [📍 Overview](#-overview)
 - [📦 Features](#-features)
 - [📂 repository Structure](#-repository-structure)
-- [⚙️ Modules](#modules)
+- [⚙️ Solutions Explained](#-solutions-explained)
 - [🚀 Getting Started](#-getting-started)
     - [🔧 Installation](#-installation)
     - [🤖 Running CCC-Oct2023](#-running-CCC-Oct2023)
-    - [🧪 Tests](#-tests)
-- [🛣 Roadmap](#-roadmap)
 - [🤝 Contributing](#-contributing)
 - [📄 License](#-license)
 - [👏 Acknowledgments](#-acknowledgments)
@@ -41,6 +39,8 @@
 Welcome to the CCC October 2023 Solution Repository! This repository contains my code solutions for the [Cloudflight Coding Contest October 2023](https://register.codingcontest.org/). Feel free to explore, learn and contribute.
 
 The CCC (short for Cloudflight Coding Contest) is one of the biggest competitions of its kind. Each Spring and Autumn over 4,000 coders from all around the world simultaneously compete against each other in level-based coding games. With each level the difficulty increases and the candidate (or team) reaching the highest level within the shortest time wins.
+
+The contest's structure was delineated into multiple levels, each presenting a unique set of algorithmic challenges that demanded not only an understanding of computer science principles but also the ability to apply logical deductions and data manipulation techniques effectively.
 
 ---
 
@@ -112,17 +112,20 @@ The CCC (short for Cloudflight Coding Contest) is one of the biggest competition
 ## ⚙️ Solutions Explained
 
 <details closed><summary>Level 1 Solution Explanation</summary>
-
+Level 1 involved a frequency analysis task where we were given a collection of puzzle pieces, each described using a string of characters representing its shape. Our solution involved creating a dictionary-based counter in Python, specifically using the 'collections.Counter' class, to track the occurrences of each unique piece. We optimized string handling and file I/O operations for efficiency, ensuring minimal computational delay.
 </details>
 <details closed><summary>Level 2 Solution Explanation</summary>
-
+Level 2 elevated the complexity by introducing the concept of rotational invariance among puzzle pieces. Here, we implemented a normalization function to account for the orientation aspect. By generating all possible rotations of a piece and using string manipulation, we could identify pieces of the same type. We stored these representations in a normalized form, ensuring that comparisons were consistent and computationally economical.
 </details>
 <details closed><summary>Level 3 Solution Explanation</summary>
-
+Level 3 presented an error correction problem within an assembled puzzle matrix. Our solution strategy involved devising a custom function to scan the puzzle's adjacency relationships, identifying 'mistake' conditions based on the knobs and holes pattern. We used multidimensional list indexing to simulate the puzzle grid, enabling direct access to 'neighboring' pieces. When inconsistencies were detected, we programmatically altered the relevant piece's string descriptor to correct the puzzle's integrity while maintaining the state of correct connections. This level necessitated careful control flow to ensure that only genuine mistakes were adjusted without disrupting the surrounding, correct alignments.
 </details>
 <details closed><summary>Level 4 Solution Explanation</summary>
 
 </details>
+Each level required us to produce output files that reflected our solutions. We incorporated systematic file handling to read inputs and write outputs, employing context management protocols in Python to interact with the file system efficiently. Additionally, the code was structured for reusability and scalability, evidenced by the modular approach in the main executable section, allowing for convenient iteration through multiple input files.
+
+
 
 
 
