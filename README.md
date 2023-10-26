@@ -132,7 +132,7 @@ Each level required us to produce output files that reflected our solutions. We 
 ---
 
 ## 🚀 Getting Started
-
+<!--
 ***Dependencies***
 
 Please ensure you have the following dependencies installed on your system:
@@ -142,7 +142,7 @@ Please ensure you have the following dependencies installed on your system:
 `- ℹ️ Dependency 2`
 
 `- ℹ️ ...`
-
+-->
 ### 🔧 Installation
 
 1. Clone the CCC-Oct2023 repository:
