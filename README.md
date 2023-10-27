@@ -231,7 +231,7 @@ This project is protected under the [MIT](LICENSE) License. For more details, re
 
 ## 👏 Acknowledgments
 
-- List any resources, contributors, inspiration, etc. here.
+I extend my sincere appreciation to Gymnasium Neusiedl for accommodating my team during the coding contest by granting us access to the school library, an essential resource that significantly contributed to our participation and efforts in the competition.
 
 [**Return**](#Top)
 
